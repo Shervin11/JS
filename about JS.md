@@ -12,9 +12,9 @@
 <summary>
 JS есть 8 типов данных: 
 </summary>
-### 7 из них относятся к группе primitive и 1 к object.
-### primitive:
-### number, string, boolean, undefined, bigInt, symbol и null.
+## 7 из них относятся к группе primitive и 1 к object.
+## primitive:
+## number, string, boolean, undefined, bigInt, symbol и null.
 
 ![mwsnap005](https://github.com/user-attachments/assets/ce739bf8-2312-43d8-9e62-aac225abfe9d)
 
