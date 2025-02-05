@@ -1,6 +1,6 @@
 <details>
-<summery>
+<summary>
 # Что такое JS ?
-</summery>
+</summary>
 
 </details>
