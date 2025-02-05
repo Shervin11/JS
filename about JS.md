@@ -18,12 +18,12 @@ JS есть 8 типов данных:
 ## Primitive:
 
 ### 1) number, 
-2) string,
-3) boolean,
-4) undefined,
-5) bigInt,
-6) symbol,
-7) null.
+### 2) string,
+### 3) boolean,
+### 4) undefined,
+### 5) bigInt,
+### 6) symbol,
+### 7) null.
 
 ![mwsnap005](https://github.com/user-attachments/assets/ce739bf8-2312-43d8-9e62-aac225abfe9d)
 </details>
