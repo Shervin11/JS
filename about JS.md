@@ -10,7 +10,7 @@
 </details>
 <details>
 <summary>
-JS есть 8 типов данных: 
+В JS есть 8 типов данных: 
 </summary>
   
 # 7 из них относятся к группе primitive и 1 к object.
